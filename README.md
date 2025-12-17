@@ -11,11 +11,18 @@
 
 <br/>
 
-<a href="https://github.com/Thesoim/X0-Zero/releases/tag/v1.0">
-  <img src="https://img.shields.io/badge/Download_APK-تحميل_التطبيق_الآن-blue?style=for-the-badge&logo=google-play&logoColor=white&color=0052CC" height="60">
-</a>
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/Thesoim/X0-Zero/releases/download/v1.0/X0-Zero.apk">
+        <img src="https://img.shields.io/badge/DOWNLOAD-APK_NOW-0052CC?style=for-the-badge&logo=android&logoColor=white" height="45">
+      </a>
+      <br/>
+      <sub><b>إضغط هنا لتحميل التطبيق مباشرة (V1.0)</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
 <br/>
 
 </div>
