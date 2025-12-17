@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/DOWNLOAD-APK_NOW-0052CC?style=for-the-badge&logo=android&logoColor=white" height="45">
       </a>
       <br/>
-      <sub><b>إضغط هنا للذهاب لصفحة التحميل (V1.0)</b></sub>
+      <sub><b>إضغط هنا للذهاب لصفحة التحميل </b></sub>
     </td>
   </tr>
 </table>
