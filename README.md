@@ -1,71 +1,109 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0fc9f350-06d7-4bb0-94cd-670be24d1752" width="100%" style="border-radius: 10px;" />
+<img width="100%" src="https://github.com/user-attachments/assets/ce3cc1f5-f245-42f7-b61e-e65082c3ffbe" alt="X0 Zero Cover" style="border-radius: 10px; border: 2px solid #330000; box-shadow: 0 0 30px #8a0000;">
 
-# 💎 X0 ZERO
-### "الجيل القادم من التواصل الآمن والحر"
+<br><br>
 
-[![Platform](https://img.shields.io/badge/Platform-Android-black?style=for-the-badge&logo=android)](https://www.android.com)
-[![Version](https://img.shields.io/badge/Version-1.0-blueviolet?style=for-the-badge&logo=git)](https://github.com/Thesoim/X0-Zero/releases/tag/v1.0)
-[![License](https://img.shields.io/badge/Price-100%25_Free-FFD700?style=for-the-badge)](https://github.com/Thesoim/X0-Zero)
+# X0 ZERO
+### The Next Generation of Encrypted Communication
+### الجيل القادم من التواصل المشفر
 
-<br/>
+[![Version](https://img.shields.io/badge/Version-Latest-ff0000?style=for-the-badge&logo=android)](../../releases)
+[![Security](https://img.shields.io/badge/Security-End--to--End-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=red)](../../releases)
+[![Developer](https://img.shields.io/badge/Developer-The_Soim-black?style=for-the-badge&logo=github&color=1a1a1a)](https://t.me/soi7m)
+[![Channel](https://img.shields.io/badge/YouTube-FTAXX-red?style=for-the-badge&logo=youtube)](https://youtube.com/@ftaxx?si=nOX7Vu9uyuMboxm6)
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/Thesoim/X0-Zero/releases">
-        <img src="https://img.shields.io/badge/DOWNLOAD-APK_NOW-0052CC?style=for-the-badge&logo=android&logoColor=white" height="45">
-      </a>
-      <br/>
-      <sub><b>إضغط هنا للذهاب لصفحة التحميل </b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-</div>
-
-## 🌟 الفخامة في التواصل
-تطبيق **X0 Zero** ليس مجرد منصة، بل هو تحفة فنية تم صياغتها لتوفر لك الخصوصية المطلقة مع واجهة بصرية تأسر الأنظار.
-
-<div align="center">
-
-| 🛡️ أمان مطلق | ⚡ سرعة خيالية | 💎 تصميم فاخر |
-|:---:|:---:|:---:|
-| لا رقم هاتف، لا بريد، لا تتبع. | خوادم فائقة السرعة لمراسلة فورية. | واجهة Dark Mode مريحة وأنيقة. |
+<br>
 
 </div>
 
 ---
 
+## 📥 التحميل المباشر (DOWNLOAD NOW)
+
 <div align="center">
 
-## 📸 جولة داخل التحفة الفنية
+<br>
 
-| **الواجهة الرئيسية** | **منطقة الدردشة** |
-|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/a395baa5-fc93-441f-a6cc-cbbf997214f5" width="280" style="border-radius: 15px;" /> | <img src="https://github.com/user-attachments/assets/1cb18879-2b25-4655-b11e-5de001f87769" width="280" style="border-radius: 15px;" /> |
+<a href="../../releases">
+<img src="https://img.shields.io/badge/⬇️_اضغط_هنا_لتحميل_التطبيق_|_DOWNLOAD_APK-FF0000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" height="70">
+</a>
+
+<br><br>
+
+<p style="font-size: 1rem; font-weight: bold; color: #ddd;">
+👈 انتقل لصفحة الإصدارات لاختيار النسخة المناسبة لجهازك 👉
+</p>
+
+<img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square">
+<img src="https://img.shields.io/badge/Size-Low-success?style=flat-square">
 
 </div>
 
 ---
 
+## 🔒 نبذة عن النظام (System Overview)
+
+> **"SYSTEM ENCRYPTED"**
+
+تطبيق **X0 ZERO** ليس مجرد تطبيق دردشة، بل هو درع رقمي صُمم خصيصاً لمن يبحث عن الخصوصية المطلقة. يعتمد التطبيق على تقنيات تشفير **Zero-Knowledge**، مما يضمن أن بياناتك ملك لك وحدك.
+
+تم تطوير النظام ليعمل بكفاءة عالية على أجهزة الأندرويد، مع واجهة مستخدم "دموية" (Blood Theme) تعكس قوة النظام وجديته.
+
+---
+
+## 💎 المميزات الرئيسية (Core Features)
+
+| الميزة | الوصف |
+| :--- | :--- |
+| 🛡️ **تشفير كامل** | حماية شاملة للبيانات، الرسائل لا تمر عبر خوادم وسيطة بصيغتها المقروءة. |
+| 🩸 **تصميم X0** | واجهة مستخدم مظلمة مع لمسات "دموية" وتأثيرات بصرية حية (Blood Glow). |
+| 🖼️ **استوديو احترافي** | نظام متطور لرفع الصور والفيديوهات والملفات بواجهة مستخدم عصرية (Modal). |
+| 🌍 **متعدد اللغات** | كشف تلقائي للغة الهاتف (عربي / English) وتحويل الواجهة بالكامل. |
+| 📞 **اتصال آمن** | مكالمات صوتية مشفرة بتقنية WebRTC مع جودة صوت عالية. |
+| ✂️ **محرر صور** | أداة مدمجة لقص وتعديل الصور الشخصية قبل رفعها. |
+
+---
+
+## 📸 لقطات من داخل النظام (System Preview)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7026b07-945a-4419-945d-056177848261" height="500" alt="Chat Interface" style="border-radius:15px; border:2px solid #1a1a1a; margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0c65ddd9-b0f7-4f29-adc4-7687950c7c59" height="500" alt="App Interface" style="border-radius:15px; border:2px solid #1a1a1a; margin: 10px;"/>
+</div>
+
+---
+
+## 🛠️ التقنيات المستخدمة (Tech Stack)
+
+تم بناء هذا المشروع باستخدام تقنيات الويب المتقدمة داخل بيئة الأندرويد:
+
+* **Core:** `Java (Android WebView)`
+* **Frontend:** `HTML5`, `CSS3 (Animations)`, `JavaScript (ES6)`
+* **Backend:** `Firebase Realtime Database`
+* **Communication:** `WebRTC (Peer-to-Peer)`
+* **Encryption:** `Base64` + `XOR Custom Algorithm`
+
+---
+
+## ⚠️ إخلاء مسؤولية (Disclaimer)
+
+هذا التطبيق صُمم لأغراض تعليمية ولحماية الخصوصية الشخصية. المطور غير مسؤول عن أي استخدام خاطئ للتطبيق.
+
+---
+
 <div align="center">
 
-### 🔥 مميزات الإصدار الذهبي (v1.0)
-🚫 **بدون إعلانات نهائياً** &nbsp;&nbsp; • &nbsp;&nbsp; 📵 **بدون تسجيل برقم** &nbsp;&nbsp; • &nbsp;&nbsp; 🔓 **مفتوح المصدر**
+### تواصل مع المطور
+### Connect with Developer
 
-<br/>
-<br/>
+[![Telegram](https://img.shields.io/badge/Telegram-The_Soim-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soi7m)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ftaxx?si=nOX7Vu9uyuMboxm6)
 
-**Developed by**
-### ♛ THE SOIM | ذا سويم ♛
+<br>
+<p style="color: #666; font-size: 0.8rem;">
+COPYRIGHT © 2025 THE SOIM. ALL RIGHTS RESERVED.<br>
+Designed by <a href="https://t.me/soi7m" style="color: #ff0000; text-decoration: none;">The Soim</a>
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soi7m)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ftaxx?si=nlKbSO1hV1qT1CeQ)
-
-<br/>
-© 2025 All Rights Reserved
 </div>
